@@ -1,0 +1,38 @@
+body {
+  background-image: url(/img/soceer.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
+}
+button {
+  color: #e5dada;
+  font-size: 15px;
+  padding: 10px 20px;
+  margin: 0 5px;
+  border: 2px solid;
+  border-radius: 10px;
+  background: transparent;
+  cursor: pointer;
+  margin-top: 10px;
+}
+h2,
+p {
+  color: #e5dada;
+}
+#container {
+  justify-content: center;
+  align-items: center;
+  display: flex;
+}
+.team {
+  padding: 30px;
+}
+.fb {
+  width: 50px;
+  height: 50px;
+}
+.bjk {
+  width: 50px;
+  height: 70px;
+}
