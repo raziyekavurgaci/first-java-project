@@ -44,5 +44,4 @@ document.getElementById("resetButtonA").addEventListener("click", function () {
 document.getElementById("resetButtonB").addEventListener("click", function () {
   document.getElementById("scoreB").innerText = "0";
 });
-// addeventlistener seçtiğimiz elemana yani reset butonına tıklandığında
-// innertexti 0 yaptı clicklendiğinde yazdığımız fonksiyon çalışsınf
+
